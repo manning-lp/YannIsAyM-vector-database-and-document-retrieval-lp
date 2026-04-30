@@ -1,0 +1,10 @@
+# Project 1: Vector Database and Document Retrieval
+# Install with: pip install -r requirements.txt
+
+qdrant-client>=1.7.0,<1.11
+sentence-transformers>=2.2.0,<2.8
+python-dotenv>=1.0.0
+PyMuPDF>=1.23.0,<1.25
+langchain>=0.1.0,<0.4
+langchain-community>=0.0.10
+langchain-experimental>=0.0.20
